@@ -12,7 +12,6 @@ Analyze the evolution of IMDb ratings and rankings for films and TV series to id
 - Python (pandas, numpy, matplotlib)
 - Jupyter Notebook
 - SQL (data extraction)
-- Tableau (visualization – separate project)
 
 ## Key Analyses
 - Evolution of average IMDb ratings over time
