@@ -1,28 +1,27 @@
 # IMDb Data Analysis – Films & Series
 
-## 🎯 Objective
+## Objective
 Analyze the evolution of IMDb ratings and rankings for films and TV series to identify content trends over time.
 
-## 📊 Dataset
+## Dataset
 - Source: IMDb public dataset
 - Content: Movies and TV series
-- Period analyzed: To be specified
+- Size: ~6,000 titles
 
-## 🛠 Tools Used
+## Tools Used
 - Python (pandas, numpy, matplotlib)
-- Tableau (data visualization)
+- Jupyter Notebook
 - SQL (data extraction)
+- Tableau (visualization – separate project)
 
-## 🔍 Key Analyses
-- Evolution of average ratings over time
-- Comparison between movies and TV series
-- Genre performance analysis
+## Key Analyses
+- Evolution of average IMDb ratings over time
+- Comparison between simple and vote-weighted ratings
+- Films vs TV series performance analysis
 
-## 📈 Visualizations
-Tableau dashboards illustrating trends and comparisons.
+## Key Insights
+- IMDb ratings appear to decline over time, mainly due to increased content volume.
+- Vote-weighted ratings provide a more reliable measure of perceived quality.
+- TV series are generally better rated than films, especially since the rise of streaming platforms.
 
-## 💡 Key Insights
-Insights will focus on content performance and audience preferences.
-
-## 🚀 Business Value
-Results can help streaming platforms and producers optimize content strategy.
+## Structure
