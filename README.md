@@ -24,3 +24,6 @@ Analyze the evolution of IMDb ratings and rankings for films and TV series to id
 - TV series are generally better rated than films, especially since the rise of streaming platforms.
 
 ## Structure
+- `data/raw/` : raw IMDb dataset (CSV)
+- `notebooks/` : Jupyter notebook containing data cleaning, analysis and visualizations
+- `README.md` : project overview and key insights
