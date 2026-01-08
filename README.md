@@ -27,3 +27,5 @@ Analyze the evolution of IMDb ratings and rankings for films and TV series to id
 - `data/raw/` : raw IMDb dataset (CSV)
 - `notebooks/` : Jupyter notebook containing data cleaning, analysis and visualizations
 - `README.md` : project overview and key insights
+
+This project was developed as part of a personal portfolio for a Data Analyst internship application.
