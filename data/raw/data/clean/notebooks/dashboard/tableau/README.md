@@ -1,1 +1,0 @@
-Tableau dashboards and screenshots.
